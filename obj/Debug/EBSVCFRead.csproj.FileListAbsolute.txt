@@ -1,0 +1,12 @@
+C:\Users\EBS\source\repos\EBSVCFRead\bin\Debug\EBSVCFRead.exe.config
+C:\Users\EBS\source\repos\EBSVCFRead\bin\Debug\EBSVCFRead.exe
+C:\Users\EBS\source\repos\EBSVCFRead\bin\Debug\EBSVCFRead.pdb
+C:\Users\EBS\source\repos\EBSVCFRead\bin\Debug\DevComponents.DotNetBar2.DLL
+C:\Users\EBS\source\repos\EBSVCFRead\obj\Debug\EBSVCFRead.csproj.AssemblyReference.cache
+C:\Users\EBS\source\repos\EBSVCFRead\obj\Debug\EBSVCFRead.Form1.resources
+C:\Users\EBS\source\repos\EBSVCFRead\obj\Debug\EBSVCFRead.Properties.Resources.resources
+C:\Users\EBS\source\repos\EBSVCFRead\obj\Debug\EBSVCFRead.csproj.GenerateResource.cache
+C:\Users\EBS\source\repos\EBSVCFRead\obj\Debug\EBSVCFRead.csproj.CoreCompileInputs.cache
+C:\Users\EBS\source\repos\EBSVCFRead\obj\Debug\EBSVCFRead.exe
+C:\Users\EBS\source\repos\EBSVCFRead\obj\Debug\EBSVCFRead.pdb
+C:\Users\EBS\source\repos\EBSVCFRead\bin\Debug\EbubekirBastamatxtokuma.dll
